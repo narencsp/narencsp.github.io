@@ -63,7 +63,7 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar("#github-graph", "narencsp");
+     GitHubCalendar("#github-graph", "narencsp", { responsive: true });
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity 
