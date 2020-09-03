@@ -12,7 +12,7 @@ const { version } = require("../package.json");
 describe("jquery.rss", () => {
   let $, element, originalAjax;
 
-  const feedUrl = "https://www.contentful.com/blog/feed.xml";
+  const feedUrl = "https://medium.com/me/stories/public";
   const fakeGetJson = content => {
     originalAjax = $.ajax;
 
