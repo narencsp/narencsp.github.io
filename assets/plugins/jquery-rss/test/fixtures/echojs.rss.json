@@ -3,9 +3,9 @@
     "responseDetails": null,
     "responseData": {
         "feed": {
-            "feedUrl": "http://www.echojs.com/rss",
+            "feedUrl": "https://medium.com/@narenk.me",
             "title": "\nEcho JS\n",
-            "link": "\nhttp://www.echojs.com\n",
+            "link": "\nhttps://medium.com\n",
             "description": "Description pending",
             "author": "",
             "entries": [
