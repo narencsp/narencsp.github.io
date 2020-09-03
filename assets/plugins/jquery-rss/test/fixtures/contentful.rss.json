@@ -3,9 +3,9 @@
     "responseDetails": null,
     "responseData": {
         "feed": {
-            "feedUrl": "https://www.contentful.com/blog/feed.xml",
+            "feedUrl": "https://medium.com/@narenk.me",
             "title": "Contentful - Blog",
-            "link": "https://www.contentful.com",
+            "link": "https://medium.com",
             "description": "Contentful gives you an API-first, cloud-based platform to power your sites and apps, allowing you to create first-class user experiences. Stop burying your content in a CMS, empower it with a content infrastructure.",
             "author": "",
             "entries": [
