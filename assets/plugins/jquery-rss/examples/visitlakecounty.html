@@ -9,9 +9,9 @@
 
     <script>
       jQuery(function($) {
-        $("#rss-feeds").rss("https://jsfeeds.com/feed", {
+        $("#rss-feeds").rss("https://www.visitlakecounty.org/rss/visitlakecounty_boating_events.xml", {
           entryTemplate: '<li>[{date}] {title}</li>',
-          dateFormat: 'ddd, DD MMM YYYY'
+          dateFormat: "M/D/YY"
         })
       })
     </script>
